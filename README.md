@@ -33,7 +33,7 @@ cd Products-API
 
 ### Swagger Screen: <br>
 
-<img src="https://i.hizliresim.com/c2t0137.png" width="1000" height="350"/>
+<img src="https://resmim.net/cdn/2025/02/08/D2R543.png" width="900" height="420"/>
 
 <br>
-<img src="https://i.hizliresim.com/tezf5do.png" width="1000" height="350"/>
+<img src="https://resmim.net/cdn/2025/02/08/D2RRaq.png" width="900" height="360"/>
