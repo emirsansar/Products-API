@@ -6,7 +6,7 @@ Products API is a RESTful API developed for managing products and product types.
 
 ## Used Technologies
 
-- ASP.NET Core 6.0
+- ASP.NET Core 7.0
 - Entity Framework Core
 - SQLite
 - JWT (JSON Web Token)
