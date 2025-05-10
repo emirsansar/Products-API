@@ -30,10 +30,3 @@ cd Products-API
 <h3>Run the Application:</h3>
 <pre><code>dotnet run
 </code></pre>
-
-### Swagger Screen: <br>
-
-<img src="https://resmim.net/cdn/2025/02/08/D2R543.png" width="900" height="420"/>
-
-<br>
-<img src="https://resmim.net/cdn/2025/02/08/D2RRaq.png" width="900" height="360"/>
